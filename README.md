@@ -1,7 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
 Hi 👋 My name is Sergey
 =======================
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://dribbble.com/shots/9758186-Get-Featured?utm_source=Clipboard_Shot&utm_campaign=NhanHoang&utm_content=Get%20Featured&utm_medium=Social_Share)]">
 Python lover and positive mate
 ------------------------------
 
